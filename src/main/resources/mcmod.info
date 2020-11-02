@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SmartBlockModID",
+  "name": "SmartBlock",
+  "description": "A Block that provides SmartThings integration.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Steve"],
+  "credits": "The Forge and FML guys, for everything they do, and to SmartThings for having such an amazingly powerful platform",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
